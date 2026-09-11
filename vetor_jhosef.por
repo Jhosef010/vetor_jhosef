@@ -31,3 +31,20 @@ programa {
   
   
      }
+
+
+
+
+      media = soma / 3.0
+    escreva("Média do ", nomes[i], ": ", media, "\n")
+
+
+   }
+
+
+  
+ }
+}
+
+
+
